@@ -1,2 +1,2 @@
 # FractalCode
-FractalCode Encryption &amp; Decryption;
+FractalCode Encryption &amp; Decryption
